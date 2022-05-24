@@ -1,5 +1,5 @@
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">  
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/></code>  
     </a>
