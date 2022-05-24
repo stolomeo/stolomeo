@@ -19,7 +19,7 @@
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></code>  
     </a> 
     <a href="https://expressjs.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> </code> 
+        <code><img src="https://icongr.am/devicon/express-original.svg?size=128&color=currentColor" alt="express" width="40" height="40"/> </code> 
     <a href="https://nodejs.org/en/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="git" width="40" height="40"/></code>  
     </a> 
